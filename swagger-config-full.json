@@ -1,0 +1,17 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/bbortt/swagger-ui-demo/master/files/pet-api.json",
+      "name": "PetAPI"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bbortt/swagger-ui-demo/master/files/store-api.json",
+      "name": "StoreAPI"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/bbortt/swagger-ui-demo/master/files/user-api.json",
+      "name": "UserAPI"
+    }
+  ],
+  "urls.primaryName": "PetAPI"
+}

@@ -1,0 +1,7 @@
+*.iml
+*.sh
+
+swagger-config.json
+
+.idea/
+files/
